@@ -28,8 +28,8 @@ This project was written for the Seeed Studio XIAO ESP32-C3 and XIAO ESP32-S3 pa
 
 ## Hardware Requirements
 
-- Seeed Studio XIAO ESP32-C3 or XIAO ESP32-S3
-- Seeed Studio 6x10 RGB Matrix for XIAO (60 WS2812B LEDs)
+- Seeed Studio [XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) or [XIAO ESP32-S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
+- Seeed Studio [6x10 RGB Matrix for XIAO](https://www.seeedstudio.com/6x10-RGB-MATRIX-for-XIAO-p-5771.html) (60 WS2812B LEDs)
 - USB-C cable with data lines (not a charge-only cable)
 - A phone, tablet, or laptop with WiFi to use the web interface
 
